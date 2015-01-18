@@ -10,14 +10,6 @@ theme:
   gravatar: 5b8ec47548f9fff41800259398665d94
   description: "Musings by Sam Olsen" # used by search engines
   
-  # Header and footer text
-  header_text: #>
-     # <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-     #
-     # <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>
-  
   # Icons
   rss: false
   email_address: # full email address, e.g. "sam@example.com"

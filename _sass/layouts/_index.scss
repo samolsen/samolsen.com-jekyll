@@ -1,6 +1,6 @@
 // call out feature
 .call-out {
-  @extend %padding-regular;
+  @extend %padding-small;
   display: inline-block;
   width: 100%;
   background: none repeat scroll 0% 0% $header-desc-background-color;

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Filter Java properties with Node/Gulp/Grunt"
+title:  "Filter Java properties with Node, Gulp, or Grunt"
 categories: software
 ---
 

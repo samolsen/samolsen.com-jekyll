@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Backbone Model Composite!"
+title:  "Introducing Backbone Model Composite"
 categories: software
 ---
 
