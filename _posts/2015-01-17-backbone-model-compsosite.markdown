@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Introducting Backbone Model Composite!"
+title:  "Introducing Backbone Model Composite!"
 date:   2015-01-17 12:00:00
-categories: software code backbonejs opensource
+categories: software
 ---
 
 I'm happy to announce Bacbone Model Composite, a small `Backbone.Model` extension which 
