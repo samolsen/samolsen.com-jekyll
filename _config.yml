@@ -65,3 +65,5 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed
+  
+permalink: /:year/:month/:day/:title
