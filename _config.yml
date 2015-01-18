@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://www.samolsen.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -67,3 +67,5 @@ sass:
   style: :compressed
   
 permalink: /:year/:month/:day/:title
+timezone: "America/Los_Angeles"
+

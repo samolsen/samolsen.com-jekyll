@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Introducing Backbone Model Composite!"
-date:   2015-01-17 12:00:00
 categories: software
 ---
 
