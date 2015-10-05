@@ -9,33 +9,33 @@ theme:
   avatar: #avatar.png
   gravatar: 5b8ec47548f9fff41800259398665d94
   description: "Musings by Sam Olsen" # used by search engines
-  
+
   # Icons
   rss: false
   email_address: # full email address, e.g. "sam@example.com"
   behance:
-  bitbucket: 
-  dribbble: 
-  facebook: 
-  flickr: 
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
   github: "samolsen"
-  google_plus: 
-  instagram: 
+  google_plus:
+  instagram:
   linkedin:  # full URL
-  pinterest: 
-  reddit: 
-  soundcloud: 
+  pinterest:
+  reddit:
+  soundcloud:
   stack_exchange:  # full URL
-  steam: 
-  tumblr: 
+  steam:
+  tumblr:
   twitter: "samolsn"
-  wordpress: 
-  youtube: 
-  
+  wordpress:
+  youtube:
+
   # Scripts
   google_analytics: # tracking id, e.g. "UA-000000-01"
   disqus_shortname:
-  
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -43,7 +43,7 @@ theme:
   str_next: "Next"
   str_prev: "Prev"
   str_continue_reading: "Continue reading"
-  
+
   # Colors, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
 
@@ -57,7 +57,6 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed
-  
+
 permalink: /:year/:month/:day/:title
 timezone: "America/Los_Angeles"
-
