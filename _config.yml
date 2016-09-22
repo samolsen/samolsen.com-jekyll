@@ -48,6 +48,8 @@ theme:
   # Open the "_sass > base" folder, and open "_variables.scss"
 
 # PAGINATION
+gems:
+  - jekyll-paginate
 paginate: 5
 paginate_path: "blog/page:num"
 
